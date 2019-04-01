@@ -1,4 +1,4 @@
-# irkernel-google-collab
+# R Kernel in Google Collab
 An easy way to run R kernel in Google collab
 
 
