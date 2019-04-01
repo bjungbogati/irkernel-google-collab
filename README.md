@@ -1,6 +1,7 @@
 # R Kernel in Google Collab
-An easy way to run R kernel in Google collab
+You can now easily run R kernel in Google collab.
 
+![](https://i.imgur.com/Nexksh3.png)
 
 There are two ways you can do it:
 
